@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Back End
 - 💞️ I’m looking to collaborate on exciting web development projects.
 - 📫 How to reach me ...
-- 😄 Pronouns: he
 - ⚡ Fun fact: I don't like error!!
 
 <!---
