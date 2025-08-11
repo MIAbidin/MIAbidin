@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MIAbidin
-- 👀 I’m interested in Programming, specifically in web development.
-- 🌱 I’m currently learning Back End
+- 👀 I’m interested in Programming, specifically in Ai, web development.
 - 💞️ I’m looking to collaborate on exciting web development projects.
-- 📫 How to reach me ...
 - ⚡ Fun fact: I don't like error!!
 
 <!---
